@@ -28,6 +28,10 @@
 
 ### Nest Protect Smoke & Carbon Monoxide Alarms
 
+**Batteries:**
+
+The smoke detectors is the bedrooms are battery powered. The ones in the family room, the upstairs hall, and the one high on the wall above the kitchen are AC powered with backup batteries in case of power failure. They all use the same AA Lithium batteries (Energizer L91).
+
 ### Pets
 
 There are coyotes, racoons, and birds of prey in the area. There have been reports of bears in Banner Woods.
