@@ -44,7 +44,14 @@ Service is provided by:
 
 ### Water
 
+There are two outside faucets:
+* On the north side of the house.
+* On the deck below the kitchen window.
+
 Service is provided by:
 
 **Washington Water Service**  
 Gig Harbor, WA 98332  
+
+The water meter is located at the SW corner of the garden beds.
+
