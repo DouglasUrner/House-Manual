@@ -28,6 +28,8 @@
 
 ### Nest Protect Smoke & Carbon Monoxide Alarms
 
+The units are interconnected - all alarms will sound if any one detects smoke or carbon monoxide. To stop the alarm press the button in the center of the alarm.
+
 **Batteries:**
 
 The smoke detectors is the bedrooms are battery powered. The ones in the family room, the upstairs hall, and the one high on the wall above the kitchen are AC powered with backup batteries in case of power failure. They all use the same AA Lithium batteries (Energizer L91).
