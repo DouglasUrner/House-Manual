@@ -8,7 +8,13 @@
 
 ### Stove
 
-## Cadet Heaters
+### Washer & Dryer Hookups
+
+## Heating
+
+### Cadet Unit Heaters
+
+### Fireplace
 
 ## LED Lights
 
@@ -18,4 +24,14 @@
 
 ## Garage Door Opener
 
-## Internet Providers
+## Utilities
+
+### Electricity
+
+### Garbage & Recycling
+
+### Internet Providers
+
+### Telephone
+
+### Water
