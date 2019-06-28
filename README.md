@@ -8,7 +8,9 @@
 
 ### Refrigerator
 
-Whirlpool stainless steel 25 cubic foot side-by-side with ice maker and water dispenser, model [ED5FVGXWS](https://www.whirlpool.com/kitchen/refrigeration/refrigerators/side-by-side/p.25-cu.-ft.-side-by-side-refrigerator-with-full-width-adjustable-slide-out-spillguard-glass-shelves.ed5fvgxws.html)
+Whirlpool stainless steel 25 cubic foot side-by-side with ice maker and water dispenser, model [ED5FVGXWS](https://www.whirlpool.com/kitchen/refrigeration/refrigerators/side-by-side/p.25-cu.-ft.-side-by-side-refrigerator-with-full-width-adjustable-slide-out-spillguard-glass-shelves.ed5fvgxws.html).
+
+Water is not currently connected to the fridge.
 
 ### Stove
 
