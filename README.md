@@ -12,6 +12,8 @@ Whirlpool stainless steel 25 cubic foot side-by-side with ice maker and water di
 
 Water is not currently connected to the fridge.
 
+Woter filter.
+
 ### Stove
 
 ### Washer & Dryer Hookups
