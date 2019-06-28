@@ -26,6 +26,15 @@
 
 ### Fire Extinguisher
 
+### Ground Fault Circuit Interrupters (GFCIs)
+
+**Circuits:**
+
+* Kitchen Counter South - the GFCI by the refrigerator protects the counter outlets on the south wall.
+* Kitchen Counter East - the GFCI to the right of the sink protects the outlets on the east wall and the one at the end of the counter island. 
+* Bathrooms - the GFCI to the left of the sink in the master bathroom protects the outlets in all three bathrooms.
+* Garage - the GFCI is located above the bench near the door to the house.
+
 ### Nest Protect Smoke & Carbon Monoxide Alarms
 
 The units are interconnected - all alarms will sound if any one detects smoke or carbon monoxide. To stop the alarm press the button in the center of the alarm.
